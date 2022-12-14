@@ -1,0 +1,14 @@
+.wrapper {
+  width: 400px;
+  height: 300px;
+  border: 1px solid red;
+  position: relative;
+}
+
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+}
