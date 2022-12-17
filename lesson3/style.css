@@ -1,0 +1,22 @@
+.wrapper {
+    width: 90%;
+    height: 500px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+button {
+    width: 100px;
+    height: 50px;
+}
+
+
+.red {
+    background-color: red;
+}
+
+
